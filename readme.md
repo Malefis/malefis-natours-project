@@ -12,5 +12,5 @@ Natuours  is a website for a fictional company who give tours in nature. This we
 
 ----------
 
-You can view the website in its live form on [natours.adammillington.com here](http://natours.adammillington.com)
+You can view the website in its live form on [natours.adammillington.com](http://natours.adammillington.com)
 
